@@ -5,3 +5,5 @@ Conv Net - Neural Net
 - Relu, Softmax
 - One Hot Encoding
 - Back propagation
+
+(Google Style docstrings)
